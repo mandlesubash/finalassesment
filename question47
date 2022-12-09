@@ -17,7 +17,7 @@ class PMWindow extends Window
 
    @Override
     public void write() {
-        System.out.println("I am writing in PMWindow");
+        System.out.println("I am writing here");
         
     }
 
@@ -25,7 +25,7 @@ class PMWindow extends Window
 
    @Override
     public void read() {
-        System.out.println("I am reading in PMWindow");
+        System.out.println("I am reading here");
         
     }
     
@@ -162,7 +162,7 @@ class FactoryMaker
 
 
 
-public class Client
+public class question47
 {
     public static void main(String args[])
     {
